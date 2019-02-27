@@ -32,6 +32,7 @@ public class DepositHatch extends CommandGroup {
    //  addSequential(new DriveToPosition(10, true));
    ///  addSequential(new LiftToPosition(downInches,true));
    //  addSequential(new DriveToPosition(-10.0, true));
+   //This is a test
 
 
     // A command group will require all of the subsystems that each member
